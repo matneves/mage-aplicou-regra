@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<modules>
+		<MateusNeves_SalesRule>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends>
+				<Mage_SalesRule />
+			</depends>
+		</MateusNeves_SalesRule>
+	</modules>
+</config>
